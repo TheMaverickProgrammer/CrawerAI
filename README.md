@@ -9,4 +9,4 @@ It then crawls along the wall.
 If there is no wall to cling to it detects if there is an face on the same tile it
 can wrap around. If so, it moves over to that face and crawls.
 
-The end result is a like a [Greemer](http://metroid.wikia.com/wiki/Geemer) from the original 2D super metroid.
+The end result is an AI that behaves similarly to a [Greemer](http://metroid.wikia.com/wiki/Geemer) from the original 2D super metroid game for the SNES.
