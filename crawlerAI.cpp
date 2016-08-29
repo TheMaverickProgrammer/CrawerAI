@@ -3,8 +3,6 @@ void crawlerAI(Object *enemy)
 {
     
     /*
-      Hokay, so here's zeh wurld. 
-      
       The idea behind the crawler A.I. is that it moves clock-wise around a 
       block (4-sided all flat). When it reaches the end of the block's 
       line segment (that particular side), it switches to the next segment
